@@ -1,0 +1,3 @@
+- create venv folder
+- run source venv/bin/activate
+- uvicorn main:app --reload
